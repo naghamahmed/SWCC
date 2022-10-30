@@ -1,1 +1,3 @@
-Line in the master
+Line on master
+Line 1 on Branch
+Line 2 on Branch
